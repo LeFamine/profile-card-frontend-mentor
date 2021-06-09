@@ -90,7 +90,6 @@ body {
     margin-top: 40px;
     line-height: 1.8rem;
     flex: 1;
-    border-bottom: 1px solid hsl(0, 0%, 59%);
 }
 .about {
     display: flex;
@@ -136,6 +135,7 @@ p {
 h1 {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
+    color: #383737;
 }
 
 #age {
