@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [LeFamine Solution](https://www.frontendmentor.io/solutions/htmlcss-vanilla-tiNBqiqBT)
+- Live Site URL: [LeFamine LiveSite](https://profile-card-frontend-mentor-six.vercel.app/)
 
 ## My process
 
